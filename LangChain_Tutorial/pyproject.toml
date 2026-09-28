@@ -3,9 +3,6 @@ name = "langchain-tutorial"
 version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
-authors = [
-    { name = "SAURAV GITTE", email = "saurav.gitte@sap.com" }
-]
 requires-python = ">=3.11"
 dependencies = []
 

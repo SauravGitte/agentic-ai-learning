@@ -18,9 +18,16 @@ Each subfolder is an independent UV project with its own virtual environment.
 
 ## First-Time Setup (New Machine)
 
-### 1. Install UV (only missing tool)
+### 1. Prerequisites
 
-Git, Python, VS Code are assumed installed. UV is the only extra:
+| Tool    | Website                                                    |
+| ------- | ---------------------------------------------------------- |
+| Git     | [git-scm.com](https://git-scm.com)                         |
+| Python  | [python.org](https://www.python.org)                       |
+| VS Code | [code.visualstudio.com](https://code.visualstudio.com)     |
+| UV ⭐   | [docs.astral.sh/uv](https://docs.astral.sh/uv)             |
+
+UV is the primary package manager used across all subfolders. Install it via:
 
 ```bash
 pip install uv
