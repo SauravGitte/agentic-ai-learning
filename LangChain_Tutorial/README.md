@@ -7,7 +7,7 @@ The following commands were used to initialize and set up the Python environment
 ### 1. Initialize the Project
 
 ```bash
-uv init
+uv init --no-vcs   # prevents nested .git
 ```
 
 Initializes the project and creates the required `uv` configuration files.
