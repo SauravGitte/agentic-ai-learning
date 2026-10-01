@@ -58,6 +58,10 @@ uv venv
 uv sync                   # installs all dependencies from pyproject.toml
 ```
 
+### 5. Copy the .env file in sub-folders
+
+It contains info about various Api keys (Google , open ai , etc.)
+
 ---
 
 ## Daily Commands

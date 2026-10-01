@@ -7,7 +7,7 @@ The following commands were used to initialize and set up the Python environment
 ### 1. Initialize the Project
 
 ```bash
-uv init --no-vcs   # prevents nested .git
+uv init --no-vcs          # init WITHOUT creating a nested .git
 ```
 
 Initializes the project and creates the required `uv` configuration files.
@@ -29,3 +29,11 @@ Creates a Python virtual environment in the `.venv` directory.
 ```
 
 Activates the newly created virtual environment.
+
+### 4. Add requirements
+
+**Windows:**
+
+```powershell
+uv add -r requirements.txt
+```
