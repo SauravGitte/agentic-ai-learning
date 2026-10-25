@@ -7,7 +7,7 @@ Personal repo for learning LangChain, LangGraph, MCP, and Agentic AI concepts.
 ```
 Agentic_AI/
 ├── LangChain_Tutorial/
-├── LangGraph/          # coming soon
+├── LangGraph_Tutorial/
 ├── MCP/                # coming soon
 └── ...
 ```
